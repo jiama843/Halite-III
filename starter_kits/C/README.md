@@ -1,1 +1,1 @@
-# C Starter Kit
+# Setting Up the C Starter Kit
